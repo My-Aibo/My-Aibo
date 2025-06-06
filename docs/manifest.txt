@@ -1,0 +1,9 @@
+Project: Aibo 
+Version: 0.1-beta
+Release: Private beta
+Updated: 2025-06-06
+Maintainer: Aibo Dev Team
+Confidential: Yes
+
+This repository is not intended for development or software distribution.
+All rights reserved by the Aibo project team.
