@@ -1,1 +1,27 @@
+# Node.js
+node_modules/
+dist/
+build/
+.cache/
+.env
+.env.local
+.npmrc
+
+# macOS
+.DS_Store
+
+# Logs
+logs/
+*.log
+
+# Editor settings
+.vscode/
+.idea/
+
+# Test snapshots
+__snapshots__/
+coverage/
+
+# System files
+Thumbs.db
 
