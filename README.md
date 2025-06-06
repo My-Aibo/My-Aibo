@@ -9,7 +9,7 @@
 ## 🧠 What is Aibo?
 
 Aibo is your autonomous AI operating layer — a personal AI twin designed to manage life, 
-crypto, work, and well-being in one seamless system.
+crypto, work, finances, well-being and more in one seamless system.
 
 It blends emotional intelligence, behavioral memory, and real-world context to understand how you live, what you value, and when to act on your behalf. With modular agents, 50+ integrations, and adaptive autonomy, Aibo evolves with you and supports you across multiple domains — From crypto to health, work to well-being.
 
