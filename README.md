@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="assets/Aibo_Logo_Font.png" alt="Aibo Logo Banner" width="100%" />
+  <img src="assets/aibo_logo_white.png" alt="Aibo Logo Banner" width="100%" />
 </p>
+
 
 
 
