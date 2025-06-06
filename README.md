@@ -8,10 +8,10 @@
 
 ## 🧠 What is Aibo?
 
-Aibo is your autonomous AI operating layer — a personal AI twin designed to manage life, 
+Aibo is your autonomous AI operating layer — a cognitive AI twin designed to manage life, 
 crypto, work, finances, well-being and more in one seamless system.
 
-It blends emotional intelligence, behavioral memory, and real-world context to understand how you live, what you value, and when to act on your behalf. With modular agents, 50+ integrations, and adaptive autonomy, Aibo evolves with you and supports you across multiple domains — From crypto to health, work to well-being.
+It blends emotional intelligence, behavioral memory, and real-world context to understand how you live, what you value, and when to act on your behalf. With modular agents, 100+ integrations, and adaptive autonomy, Aibo evolves with you and supports you across multiple domains — From crypto to health, work to well-being.
 
 
 ---
@@ -30,7 +30,7 @@ Aibo is built from 8 intelligent modules — each focused on a key domain of you
 - **Academy** – Your learning engine — connects to platforms, tracks skills, and boosts memory.
 - **Labs** – Experimental zone for building new logic, running simulations, and developer tools.
 
-> 🔒 All modules except Crypto are under development. Life, Ops, and Vitals are already in advanced internal testing.
+> 🔒 All modules are in development, except Crypto and Core. Life, Ops, and Vitals are in advanced testing, while Crypto and Core are under continuous refinement.
 
 
 ---
@@ -40,9 +40,9 @@ Aibo is built from 8 intelligent modules — each focused on a key domain of you
 
 - **Autopilot Modes** – Full, partial, or advisor-only interaction across modules.
 - **Modular Dashboard** – One system, infinite extensions.
-- **Emotional & Behavioral Memory** – Your AI gets smarter, more intuitive, and more aligned with you over time.
+- **Emotional & Behavioral Memory** – Your cognitive proxy gets smarter, more intuitive, and more aligned with you over time.
 - **Privacy First** – Zero tracking, full encryption, decentralized storage.
-- **50+ Integrations** – Covering LLM's, crypto wallets and analytics, productivity suites, health and wearables, smart home devices, messaging and scheduling apps, learning platforms, and crypto/traditional payment systems.
+- **100+ Integrations** – Covering LLM's, crypto wallets and analytics, productivity suites, health and wearables, smart home devices, messaging and scheduling apps, learning platforms, and crypto/traditional payment systems.
 
 
 ---
@@ -50,7 +50,7 @@ Aibo is built from 8 intelligent modules — each focused on a key domain of you
 
 ## 🚀 Current Status
 
-- **Aibo Crypto**:   ✅ Live in 0.1-beta phase
+- **Aibo Crypto & Core**:   ✅ Live in v1.0
 - **Other Modules**: 🔧 In development (Life, Ops, and Vitals in advanced stages)
 - **App Access**:    🟢 Public registration open – limited spots available
 - **Registration**:  ✅ Instant sign-up via website
@@ -72,7 +72,7 @@ Aibo is built from 8 intelligent modules — each focused on a key domain of you
 
 ## 📨 Early Access
 
-We’re currently in 0.1-beta phase. Aibo Crypto is available for early users.  
+Aibo is available for early users.  
 **Register now to claim access** – **only limited spots open.**
 
 > **Codebase**: 🔒 Temporarily closed-source while core intelligence and architecture evolve to ensure security and stability.
