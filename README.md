@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/aibo_logo_white.png" alt="Aibo Logo Banner" width="100%" />
+  <img src="assets/Aibo_github.png" alt="Aibo Logo Banner" width="100%" />
 </p>
 
 
