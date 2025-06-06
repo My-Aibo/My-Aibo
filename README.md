@@ -50,10 +50,10 @@ Aibo is built from 8 intelligent modules — each focused on a key domain of you
 
 ## 🚀 Current Status
 
-- **Aibo Crypto**: ✅ Live in 0.1-beta phase
+- **Aibo Crypto**:   ✅ Live in 0.1-beta phase
 - **Other Modules**: 🔧 In development (Life, Ops, and Vitals in advanced stages)
-- **App Access**: 🟢 Public registration open – limited spots available
-- **Registration**: ✅ Instant sign-up via website
+- **App Access**:    🟢 Public registration open – limited spots available
+- **Registration**:  ✅ Instant sign-up via website
 
 
 ---
@@ -61,10 +61,10 @@ Aibo is built from 8 intelligent modules — each focused on a key domain of you
 
 ## 📎 Useful Links
 
-- 🌐 [Official Website](https://aibo.network) 
-- 📘 [GitBook Whitepaper](https://app.gitbook.com/o/iA3GcixW1c4Yq6OU5kX4/s/3CqteFpIynbcJ5NzK650/modules/aibo-dashboard)
-- 🧠 [X/Twitter](https://x.com/yourAibo)
-- 🧪 [Join Beta Access](#) 
+- [Official Website](https://aibo.network) 
+- [GitBook Whitepaper](https://app.gitbook.com/o/iA3GcixW1c4Yq6OU5kX4/s/3CqteFpIynbcJ5NzK650/modules/aibo-dashboard)
+- [X/Twitter](https://x.com/yourAibo)
+- [Join Beta Access](#) 
 
 
 ---
@@ -73,7 +73,7 @@ Aibo is built from 8 intelligent modules — each focused on a key domain of you
 ## 📨 Early Access
 
 We’re currently in 0.1-beta phase. Aibo Crypto is available for early users.  
-**Register now to claim access** – only limited spots open.**
+**Register now to claim access** – **only limited spots open.**
 
 > **Codebase**: 🔒 Temporarily closed-source while core intelligence and architecture evolve to ensure security and stability.
 
