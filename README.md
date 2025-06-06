@@ -4,11 +4,6 @@
 
 
 
-
-<p align="center">
-  <img src="assets/Aibo_Logo_Font.png" alt="Aibo Logo" width="320" />
-</p>
-
 # Aibo – Your AI Operating Layer
 
 > Aibo is a modular, Solana-native intelligence layer designed to optimize your crypto, automate your life, and evolve with you.
